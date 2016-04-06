@@ -1,7 +1,14 @@
 [![Build Status](https://secure.travis-ci.org/leizongmin/node-rd.png?branch=master)](http://travis-ci.org/leizongmin/node-rd)
 
-node-rd
+Automatic Book Shelf
 =======
+
+自动整理图书，分类到对应的目录
+
+
+
+node-rd
+======
 
 列出（遍历）目录下的所有文件，包括子目录
 
